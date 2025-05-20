@@ -24171,7 +24171,7 @@
 		(layer "Edge.Cuts")
 		(uuid "fd12258f-836a-44e9-a51d-f689e8bd42d7")
 	)
-	(gr_text "Max is awesome <3"
+	(gr_text "glibbi glorp"
 		(at 24.13 134.62 90)
 		(layer "F.Cu")
 		(uuid "b6a85c75-dba5-487d-b84e-39242613f1d6")
